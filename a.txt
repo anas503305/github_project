@@ -1,3 +1,4 @@
 first line in a.txt
 second line in a.txt
 third line in a.txt
+fourth line in a.txt
